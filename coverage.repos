@@ -1,0 +1,157 @@
+ament/ament_index:
+  type: git
+  url: https://github.com/ament/ament_index.git
+  version: master
+eProsima/Fast-CDR:
+  type: git
+  url: https://github.com/eProsima/Fast-CDR.git
+  version: v1.0.13
+eProsima/Fast-RTPS:
+  type: git
+  url: https://github.com/eProsima/Fast-RTPS.git
+  version: 2.0.x
+eProsima/foonathan_memory_vendor:
+  type: git
+  url: https://github.com/eProsima/foonathan_memory_vendor.git
+  version: master
+micro-ROS/ros_tracing/ros2_tracing:
+  type: git
+  url: https://gitlab.com/micro-ROS/ros_tracing/ros2_tracing.git
+  version: 1.0.0
+ros-tooling/libstatistics_collector:
+  type: git
+  url: https://github.com/ros-tooling/libstatistics_collector.git
+  version: master
+ros-visualization/interactive_markers:
+  type: git
+  url: https://github.com/ros-visualization/interactive_markers.git
+  version: ros2
+ros/class_loader:
+  type: git
+  url: https://github.com/ros/class_loader.git
+  version: ros2
+ros2/common_interfaces:
+  type: git
+  url: https://github.com/ros2/common_interfaces.git
+  version: master
+ros2/console_bridge_vendor:
+  type: git
+  url: https://github.com/ros2/console_bridge_vendor.git
+  version: master
+ros2/geometry2:
+  type: git
+  url: https://github.com/ros2/geometry2.git
+  version: ros2
+ros2/launch_ros:
+  type: git
+  url: https://github.com/ros2/launch_ros.git
+  version: master
+ros2/libyaml_vendor:
+  type: git
+  url: https://github.com/ros2/libyaml_vendor.git
+  version: master
+ros2/message_filters:
+  type: git
+  url: https://github.com/ros2/message_filters.git
+  version: master
+ros2/rcl:
+  type: git
+  url: https://github.com/ros2/rcl.git
+  version: master
+ros2/rcl_interfaces:
+  type: git
+  url: https://github.com/ros2/rcl_interfaces.git
+  version: master
+ros2/rcl_logging:
+  type: git
+  url: https://github.com/ros2/rcl_logging.git
+  version: master
+ros2/rclcpp:
+  type: git
+  url: https://github.com/ros2/rclcpp.git
+  version: master
+ros2/rcpputils:
+  type: git
+  url: https://github.com/ros2/rcpputils.git
+  version: master
+ros2/rcutils:
+  type: git
+  url: https://github.com/ros2/rcutils.git
+  version: master
+ros2/rmw:
+  type: git
+  url: https://github.com/ros2/rmw.git
+  version: master
+ros2/rmw_connext:
+  type: git
+  url: https://github.com/ros2/rmw_connext.git
+  version: master
+ros2/rmw_cyclonedds:
+  type: git
+  url: https://github.com/ros2/rmw_cyclonedds.git
+  version: master
+ros2/rmw_dds_common:
+  type: git
+  url: https://github.com/ros2/rmw_dds_common.git
+  version: master
+ros2/rmw_fastrtps:
+  type: git
+  url: https://github.com/ros2/rmw_fastrtps.git
+  version: master
+ros2/rmw_implementation:
+  type: git
+  url: https://github.com/ros2/rmw_implementation.git
+  version: master
+ros2/ros1_bridge:
+  type: git
+  url: https://github.com/ros2/ros1_bridge.git
+  version: master
+ros2/ros2cli:
+  type: git
+  url: https://github.com/ros2/ros2cli.git
+  version: master
+ros2/rosbag2:
+  type: git
+  url: https://github.com/ros2/rosbag2.git
+  version: master
+ros2/rosidl:
+  type: git
+  url: https://github.com/ros2/rosidl.git
+  version: master
+ros2/rosidl_defaults:
+  type: git
+  url: https://github.com/ros2/rosidl_defaults.git
+  version: master
+ros2/rosidl_python:
+  type: git
+  url: https://github.com/ros2/rosidl_python.git
+  version: master
+ros2/rosidl_runtime_py:
+  type: git
+  url: https://github.com/ros2/rosidl_runtime_py.git
+  version: master
+ros2/rosidl_typesupport:
+  type: git
+  url: https://github.com/ros2/rosidl_typesupport.git
+  version: master
+ros2/rosidl_typesupport_connext:
+  type: git
+  url: https://github.com/ros2/rosidl_typesupport_connext.git
+  version: master
+ros2/rosidl_typesupport_fastrtps:
+  type: git
+  url: https://github.com/ros2/rosidl_typesupport_fastrtps.git
+  version: master
+ros2/spdlog_vendor:
+  type: git
+  url: https://github.com/ros2/spdlog_vendor.git
+  version: master
+ros2/system_tests:
+  type: git
+  url: https://github.com/ros2/system_tests.git
+  version: master
+ros2/unique_identifier_msgs:
+  type: git
+  url: https://github.com/ros2/unique_identifier_msgs.git
+  version: master
+
