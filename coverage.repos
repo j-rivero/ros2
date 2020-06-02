@@ -31,6 +31,10 @@ repositories:
       type: git
       url: https://gitlab.com/micro-ROS/ros_tracing/ros2_tracing.git
       version: 1.0.0
+    osrf/osrf_testing_tools_cpp:
+      type: git
+      url: https://github.com/osrf/osrf_testing_tools_cpp.git
+      version: master
     ros-tooling/libstatistics_collector:
       type: git
       url: https://github.com/ros-tooling/libstatistics_collector.git
@@ -42,6 +46,10 @@ repositories:
     ros/class_loader:
       type: git
       url: https://github.com/ros/class_loader.git
+      version: ros2
+    ros/pluginlib:
+      type: git
+      url: https://github.com/ros/pluginlib.git
       version: ros2
     ros2/ament_cmake_ros:
       type: git
@@ -59,6 +67,10 @@ repositories:
       type: git
       url: https://github.com/ros2/geometry2.git
       version: ros2
+    ros2/launch:
+      type: git
+      url: https://github.com/ros2/launch.git
+      version: master
     ros2/launch_ros:
       type: git
       url: https://github.com/ros2/launch_ros.git
@@ -167,7 +179,19 @@ repositories:
       type: git
       url: https://github.com/ros2/system_tests.git
       version: master
+    ros2/test_interface_files:
+      type: git
+      url: https://github.com/ros2/test_interface_files.git
+      version: master
+    ros2/tinyxml2_vendor:
+      type: git
+      url: https://github.com/ros2/tinyxml2_vendor.git
+      version: master
     ros2/unique_identifier_msgs:
       type: git
       url: https://github.com/ros2/unique_identifier_msgs.git
+      version: master
+    ros2/yaml_cpp_vendor:
+      type: git
+      url: https://github.com/ros2/yaml_cpp_vendor.git
       version: master
