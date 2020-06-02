@@ -183,6 +183,10 @@ repositories:
       type: git
       url: https://github.com/ros2/rosidl_typesupport_fastrtps.git
       version: master
+    ros2/rpyutils:
+      type: git
+      url: https://github.com/ros2/rpyutils.git
+      version: master
     ros2/spdlog_vendor:
       type: git
       url: https://github.com/ros2/spdlog_vendor.git
