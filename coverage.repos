@@ -67,6 +67,10 @@ repositories:
       type: git
       url: https://github.com/ros2/console_bridge_vendor.git
       version: master
+    ros2/eigen3_cmake_module:
+      type: git
+      url: https://github.com/ros2/console_bridge_vendor.git
+      version: master
     ros2/geometry2:
       type: git
       url: https://github.com/ros2/geometry2.git
