@@ -358,7 +358,7 @@ repositories:
   ros2/sros2:
     type: git
     url: https://github.com/ros2/sros2.git
-    version: master
+    version: dbec91d1c9efafadb9b7eeb183cc5f2663feb136
   ros2/system_tests:
     type: git
     url: https://github.com/ros2/system_tests.git
